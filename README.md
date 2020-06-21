@@ -1,4 +1,2 @@
 # hackerrank-algorithms-js
-
-Acesse o meu perfil:
-### https://www.hackerrank.com/leehcamposs
+Repositório com desafios do HankerRank (Problem Solving) resolvidos com a linguaguem Javascript
