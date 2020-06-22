@@ -15,4 +15,5 @@ Repositório com desafios do HankerRank (Problem Solving) resolvidos com a lingu
     - [Mini Max Sum](./06-mini-max-sum.js)
     - [Staircase](./07-staircase.js)
     - [Grading](./08-grading.js)
+    - [Intro to tutorial challenges](./09-tutorial-intro.js)
     
