@@ -25,11 +25,6 @@ function readLine() {
 // Complete the staircase function below.
 function staircase(n) {
 
-    let space = ' ';
-    for (let i = 1; i < n; i++) {
-        space += ' ';
-    }
-
     let stair = '#';
     for (let i = 0; i < n; i++) {
         console.log(stair.padStart(n, ' '));
