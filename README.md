@@ -13,4 +13,4 @@ Repositório com desafios do HankerRank (Problem Solving) resolvidos com a lingu
     - [Time Conversion](./04-time-conversion.js)
     - [Birthday Cake Candles](./05-birthday-cake-candles.js)
     - [Mini Max Sum](./06-mini-max-sum.js)
-    
+    - [Staircase](./07-staircase.js)
