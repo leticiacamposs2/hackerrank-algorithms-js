@@ -26,17 +26,11 @@ function readLine() {
  * Complete the simpleArraySum function below.
  */
 function simpleArraySum(ar) {
-
-    /*
-     * Write your code here.
-     */
-
-    let sum = 0;
-    for (let i = 0; i < ar.length; i++) {
-        sum += ar[i];
-    }
-    return sum;
+    
+    const sum = (accumulator, currentValue) => accumulator + currentValue;
+    return console.log(ar.reduce(sum));
 }
+
 
 function main() {
     const ws = fs.createWriteStream(process.env.OUTPUT_PATH);
