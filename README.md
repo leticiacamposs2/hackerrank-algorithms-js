@@ -19,3 +19,4 @@ Repositório com desafios do HankerRank (Problem Solving) resolvidos com a lingu
     - [Plus Minus](./10-plus-minus.js)
     - [Multiplication Table](./11-multiplication-table.js)
     - [Prime Number](./12-primer-number.js)
+    - [Vowel by Asteristic](./13-vowel-by-asteristic.js)
