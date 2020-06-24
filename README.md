@@ -17,4 +17,5 @@ Repositório com desafios do HankerRank (Problem Solving) resolvidos com a lingu
     - [Grading](./08-grading.js)
     - [Intro to tutorial challenges](./09-tutorial-intro.js)
     - [Plus Minus](./10-plus-minus.js)
+    - [Multiplication Table](./11-multiplication-table.js)
     
