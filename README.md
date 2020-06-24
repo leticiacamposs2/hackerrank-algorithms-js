@@ -1,5 +1,5 @@
 # 🤓 HackerRank Algorithms JS
-Repositório com desafios do HankerRank (Problem Solving) resolvidos com a linguagem Javascript
+Repositório com desafios do HankerRank (Problem Solving) resolvidos com a linguagem Javascript e Node
 
 ---
 
@@ -18,4 +18,4 @@ Repositório com desafios do HankerRank (Problem Solving) resolvidos com a lingu
     - [Intro to tutorial challenges](./09-tutorial-intro.js)
     - [Plus Minus](./10-plus-minus.js)
     - [Multiplication Table](./11-multiplication-table.js)
-    
+    - [Prime Number](./12-primer-number.js)
