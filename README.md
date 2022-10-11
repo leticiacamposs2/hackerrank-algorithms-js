@@ -5,7 +5,8 @@ Repositório com desafios do HankerRank (Problem Solving) resolvidos com a lingu
 
 ## 🚀 Challenges
 
-- [Easy]
+- #### EASY
+
     - ✅ [Solve Me First](easy/solve-me-first.js)
     - ✅ [Simple Array Sum](easy/simple-array-sum.js)
     - ✅ [Compare the Triplets](easy/compare-the-triplets.js)
